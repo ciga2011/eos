@@ -90,6 +90,8 @@ EOSIO currently supports the following operating systems:
 1. [Developer Telegram Group](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ)
 1. [White Paper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
 1. [Roadmap](https://github.com/EOSIO/Documentation/blob/master/Roadmap.md)
+1. [Develop a EOS Wallet Step by Step Tutorial](http://xc.hubwiz.com/course/5c79edcaf697372707791512?affid=github7878)
+1. [EOS Contract and DApp Dev Course](http://xc.hubwiz.com/course/5b52c0a2c02e6b6a59171ded?affid=github7878)
 
 <a name="gettingstarted"></a>
 ## Getting Started
